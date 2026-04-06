@@ -42,4 +42,6 @@ It demonstrates building an interactive dashboard from a report using Power BI S
 Based on Microsoft PL-300 training labs
 
 ##ScreenShorts
-![Dashboards]https://github.com/Mgit-7/Powerbi-sales-Dashboard/blob/main/Sales%20person%20Performance.png
+![Dashboards]
+https://github.com/Mgit-7/Powerbi-sales-Dashboard/blob/main/Sales%20person%20Performance.png
+https://github.com/Mgit-7/Powerbi-sales-Dashboard/blob/main/Total%20Running%20Sales.png
